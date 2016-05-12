@@ -43,7 +43,7 @@ TruncateHtml.configure do |config|
 end
 ```
 
-If you really want, you can even set a custom word boundary regular expression
+If you really want, you can even set a custom word boundary regular expression.
 For example, to truncate at the end of the nearest sentence:
 
 ```ruby
